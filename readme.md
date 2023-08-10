@@ -8,3 +8,5 @@
 
 
 # Note: We do not store any type of your data.
+
+# Device Responsive
